@@ -29,15 +29,19 @@ if ( ! defined( 'ABSPATH' ) ) {
 		</div>
 	</div> -->
 
-	<div class="wpcdt-deal-offer-wrap">
+	<!-- <div class="wpcdt-deal-offer-wrap">
 		<div class="wpcdt-deal-offer"> 
 			<div class="wpcdt-inn-deal-offer">
 				<h3 class="wpcdt-inn-deal-hedding"><span>Try Countdown Timer Ultimate Pro</span> in Essential Bundle Free For 5 Days.</h3>
 			</div>
 			<div class="wpcdt-deal-free-offer">
-				<a href="<?php echo esc_url( WPCDT_PLUGIN_BUNDLE_LINK ); ?>" target="_blank" class="wpcdt-sf-free-btn"><span class="dashicons dashicons-cart"></span> Try Pro For 5 Days Free</a>
+				<a href="<?php // echo esc_url( WPCDT_PLUGIN_BUNDLE_LINK ); ?>" target="_blank" class="wpcdt-sf-free-btn"><span class="dashicons dashicons-cart"></span> Try Pro For 5 Days Free</a>
 			</div>
 		</div>
+	</div> -->
+
+	<div class="wpcdt-black-friday-banner-wrp">
+		<a href="<?php echo esc_url( WPCDT_PLUGIN_BUNDLE_LINK ); ?>" target="_blank"><img style="width: 100%;" src="<?php echo esc_url( WPCDT_URL ); ?>assets/images/black-friday-banner.png" alt="black-friday-banner" /></a>
 	</div>
 
 	<table class="wpos-plugin-pricing-table">
@@ -158,15 +162,19 @@ if ( ! defined( 'ABSPATH' ) ) {
 		</div>
 	</div> -->
 
-	<div class="wpcdt-deal-offer-wrap">
+	<!-- <div class="wpcdt-deal-offer-wrap">
 		<div class="wpcdt-deal-offer"> 
 			<div class="wpcdt-inn-deal-offer">
 				<h3 class="wpcdt-inn-deal-hedding"><span>Try Countdown Timer Ultimate Pro</span> in Essential Bundle Free For 5 Days.</h3>
 			</div>
 			<div class="wpcdt-deal-free-offer">
-				<a href="<?php echo esc_url( WPCDT_PLUGIN_BUNDLE_LINK ); ?>" target="_blank" class="wpcdt-sf-free-btn"><span class="dashicons dashicons-cart"></span> Try Pro For 5 Days Free</a>
+				<a href="<?php //echo esc_url( WPCDT_PLUGIN_BUNDLE_LINK ); ?>" target="_blank" class="wpcdt-sf-free-btn"><span class="dashicons dashicons-cart"></span> Try Pro For 5 Days Free</a>
 			</div>
 		</div>
+	</div> -->
+
+	<div class="wpcdt-black-friday-banner-wrp">
+		<a href="<?php echo esc_url( WPCDT_PLUGIN_BUNDLE_LINK ); ?>" target="_blank"><img style="width: 100%;" src="<?php echo esc_url( WPCDT_URL ); ?>assets/images/black-friday-banner.png" alt="black-friday-banner" /></a>
 	</div>
 
 </div>

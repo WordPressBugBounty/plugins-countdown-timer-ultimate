@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 		<span class="wpcdt-tab-desc"><?php esc_html_e('Choose Timer content settings.', 'countdown-timer-ultimate'); ?> 
 			<!-- <strong><?php //echo sprintf( __( 'Utilize these <a href="%s" target="_blank">Premium Features (With Risk-Free 30 days money back guarantee)</a> to get best of this plugin with Annual or Lifetime bundle deal.', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?></strong> -->
 
-			<strong><?php echo sprintf( __( 'Try All These <a href="%s" target="_blank">Features in Essential Bundle Free For 5 Days.</a>', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?></strong>
+			<strong><?php echo sprintf( __( 'Try All These PRO Features with <a href="%s" target="_blank">Early Back Friday Deals</a> on lifetime plan. FLAT $100 USD OFF.', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?></strong>
 		</span>
 	</div>
 
