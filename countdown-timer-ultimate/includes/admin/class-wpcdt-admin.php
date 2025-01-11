@@ -47,10 +47,10 @@ class Wpcdt_Admin {
 		add_submenu_page( 'edit.php?post_type='.WPCDT_POST_TYPE, __('How it works - Countdown Timer Ultimate', 'countdown-timer-ultimate'), __('How It Works', 'countdown-timer-ultimate'), 'manage_options', 'wpcdt-designs', array($this, 'wpcdt_designs_page') );
 
 		// Setting page
-		add_submenu_page( 'edit.php?post_type='.WPCDT_POST_TYPE, __('Overview - Countdown Timer Ultimate', 'countdown-timer-ultimate'), '<span style="color:#2ECC71">'.__('Overview', 'countdown-timer-ultimate').'</span>', 'manage_options', 'wpcdt-solutions-features', array($this, 'wpcdt_solutions_features_page') );
+		add_submenu_page( 'edit.php?post_type='.WPCDT_POST_TYPE, __('Overview - Countdown Timer Ultimate', 'countdown-timer-ultimate'), __('Overview', 'countdown-timer-ultimate'), 'manage_options', 'wpcdt-solutions-features', array($this, 'wpcdt_solutions_features_page') );
 
 		// Premium Feature Page
-		add_submenu_page( 'edit.php?post_type='.WPCDT_POST_TYPE, __('Upgrade To PRO - Countdown Timer Ultimate', 'countdown-timer-ultimate'), '<span style="color:#ff2700">'.__('Upgrade To PRO - Early Back Friday Deals', 'countdown-timer-ultimate').'</span>', 'manage_options', 'wpcdt-premium', array($this, 'wpcdt_premium_page') );
+		add_submenu_page( 'edit.php?post_type='.WPCDT_POST_TYPE, __('Upgrade To PRO - Countdown Timer Ultimate', 'countdown-timer-ultimate'), '<span style="color:#2ECC71">'.__('Upgrade To PRO', 'countdown-timer-ultimate').'</span>', 'manage_options', 'wpcdt-premium', array($this, 'wpcdt_premium_page') );
 	}
 
 	/**

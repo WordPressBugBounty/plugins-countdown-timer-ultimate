@@ -14,9 +14,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 <div id="wpcdt_unlock_tabs" class="wpcdt-vtab-cnt wpcdt_unlock_tabs wpcdt-clearfix">
 
-	<div class="wpcdt-black-friday-banner-wrp">
-		<a href="<?php echo esc_url( WPCDT_PLUGIN_BUNDLE_LINK ); ?>" target="_blank"><img style="width: 100%;" src="<?php echo esc_url( WPCDT_URL ); ?>assets/images/black-friday-banner.png" alt="black-friday-banner" /></a>
-	</div>
+	<!-- <div class="wpcdt-black-friday-banner-wrp">
+		<a href="<?php // echo esc_url( WPCDT_PLUGIN_BUNDLE_LINK ); ?>" target="_blank"><img style="width: 100%;" src="<?php // echo esc_url( WPCDT_URL ); ?>assets/images/black-friday-banner.png" alt="black-friday-banner" /></a>
+	</div> -->
 
 	<h2 class="wpcpt-plugin-list">Bundle Deal Details</h2>
 	<table class="wpos-plugin-list">
