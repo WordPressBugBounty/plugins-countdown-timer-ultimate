@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 			<!-- <strong><?php //echo sprintf( __( 'Try All These PRO Features with <a href="%s" target="_blank">Early Back Friday Deals</a> on lifetime plan. FLAT $100 USD OFF.', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?></strong> -->
 
-			<strong style="color:#2ECC71;"><?php echo sprintf( __( ' <a href="%s" target="_blank" style="color:#2ECC71;">Upgrade To Pro</a> and Get get Designs, Optimization, Security, Backup, Migration and Solutions @ one stop.', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?></strong>
+			<strong style="color:#2ECC71;"><?php echo sprintf( __( ' <a href="%s" target="_blank" style="color:#2ECC71;">Upgrade To Pro</a> and Get Designs, Optimization, Security, Backup, Migration Solutions @ one stop.', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?></strong>
 		</span>
 	</div>
 

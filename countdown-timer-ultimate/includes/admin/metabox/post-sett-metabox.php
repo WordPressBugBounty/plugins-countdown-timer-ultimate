@@ -74,7 +74,7 @@ $is_timerseconds	= ! empty( $content_data['is_timerseconds'] )	? 1 : 0;
 
 						<!-- <strong><?php // echo sprintf( __( 'Try This PRO Features with <a href="%s" target="_blank">Early Back Friday Deals</a> on lifetime plan. FLAT $100 USD OFF.', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?></strong> -->
 
-						<strong style="color:#2ECC71;"><?php echo sprintf( __( ' <a href="%s" target="_blank" style="color:#2ECC71;">Upgrade To Pro</a> and Get get Designs, Optimization, Security, Backup, Migration and Solutions @ one stop.', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?></strong>
+						<strong style="color:#2ECC71;"><?php echo sprintf( __( ' <a href="%s" target="_blank" style="color:#2ECC71;">Upgrade To Pro</a> and Get Designs, Optimization, Security, Backup, Migration Solutions @ one stop.', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?></strong>
 
 					</td>
 				</tr>
@@ -102,7 +102,7 @@ $is_timerseconds	= ! empty( $content_data['is_timerseconds'] )	? 1 : 0;
 						<span class="description"><?php _e('Set countdown timer recurring time.', 'countdown-timer-ultimate'); ?></span>
 						<!-- <strong><?php //echo sprintf( __( 'Utilize this <a href="%s" target="_blank">Premium Features (With Risk-Free 30 days money back guarantee)</a> to get best of this plugin with Annual or Lifetime bundle deal.', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?></strong> -->
 
-						<strong style="color:#2ECC71;"><?php echo sprintf( __( ' <a href="%s" target="_blank" style="color:#2ECC71;">Upgrade To Pro</a> and Get get Designs, Optimization, Security, Backup, Migration and Solutions @ one stop.', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?></strong>
+						<strong style="color:#2ECC71;"><?php echo sprintf( __( ' <a href="%s" target="_blank" style="color:#2ECC71;">Upgrade To Pro</a> and Get Designs, Optimization, Security, Backup, Migration Solutions @ one stop.', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?></strong>
 
 					</td>
 				</tr>
@@ -149,7 +149,7 @@ $is_timerseconds	= ! empty( $content_data['is_timerseconds'] )	? 1 : 0;
 
 						<?php //echo sprintf( __( 'Try This PRO Features with <a href="%s" target="_blank">Early Back Friday Deals</a> on lifetime plan. FLAT $100 USD OFF.', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?>
 
-						<strong style="color:#2ECC71;"><?php echo sprintf( __( ' <a href="%s" target="_blank" style="color:#2ECC71;">Upgrade To Pro</a> and Get get Designs, Optimization, Security, Backup, Migration and Solutions @ one stop.', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?></strong>
+						<strong style="color:#2ECC71;"><?php echo sprintf( __( ' <a href="%s" target="_blank" style="color:#2ECC71;">Upgrade To Pro</a> and Get Designs, Optimization, Security, Backup, Migration Solutions @ one stop.', 'countdown-timer-ultimate'), WPCDT_PLUGIN_LINK_UNLOCK); ?></strong>
 						</div>
 					</th>
 				</tr>
