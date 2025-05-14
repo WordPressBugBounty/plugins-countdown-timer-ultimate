@@ -1,9 +1,9 @@
 === Countdown Timer Ultimate ===
-Contributors: wponlinesupport, anoopranawat, pratik-jain, piyushpatel123, patelketan
+Contributors: essentialplugin
 Tags: countdown timer, event countdown timer, animated countdown timer, countdown clock, date countdown form
 Requires at least: 5.2
-Tested up to: 6.7.1
-Stable tag: 2.6.4
+Tested up to: 6.8.1
+Stable tag: 2.6.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -129,11 +129,14 @@ And your time starts now… **Download Now**.
 
 == Changelog ==
 
+= 2.6.5 (14, May 2025) =
+* [*] Check compatibility with WordPress version 6.8.1
+
 = 2.6.4 (11, January 2024) =
-* [*] Check compatibility with WordPress version 6.7.1.
+* [*] Check compatibility with WordPress version 6.7.1
 
 = 2.6.3 (11, January 2024) =
-* [*] Check compatibility with WordPress version 6.7.1.
+* [*] Check compatibility with WordPress version 6.7.1
 
 = 2.6.2 (05, Nov 2024) =
 * [*] Check compatibility with WordPress version 6.6.2
