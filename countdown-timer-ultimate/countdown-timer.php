@@ -6,7 +6,7 @@
  * Author: Essential Plugin
  * Text Domain: countdown-timer-ultimate
  * Domain Path: /languages/
- * Version: 2.6.7
+ * Version: 2.6.9
  * Author URI: https://essentialplugin.com
  *
  * @package Countdown Timer Ultimate
@@ -25,7 +25,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if( ! defined( 'WPCDT_VERSION' ) ) {
-	define( 'WPCDT_VERSION', '2.6.6' ); // Version of plugin
+	define( 'WPCDT_VERSION', '2.6.9' ); // Version of plugin
 }
 if( ! defined( 'WPCDT_NAME' ) ) {
 	define( 'WPCDT_NAME', 'Countdown Timer Ultimate' ); // Name of plugin
@@ -260,8 +260,8 @@ function wpos_analytics_anl31_load() {
 	$wpos_analytics =  wpos_anylc_init_module( array(
 							'id'			=> 31,
 							'file'			=> plugin_basename( __FILE__ ),
-							'name'			=> WPCDT_NAME,
-							'slug'			=> WPCDT_SLUG,
+							'name'			=> 'Countdown Timer Ultimate',
+							'slug'			=> 'countdown-timer-ultimate',
 							'type'			=> 'plugin',
 							'menu'			=> 'edit.php?post_type=wpcdt_countdown',
 							'redirect_page'	=> 'edit.php?post_type=wpcdt_countdown&page=wpcdt-solutions-features',
